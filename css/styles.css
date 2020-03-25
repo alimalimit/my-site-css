@@ -1,0 +1,172 @@
+.top-container{
+    background-color: #e3fdfd;
+    position: relative;
+    padding-top:100px ;
+    
+}
+.middle-container
+{
+    margin: 50px;
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+body{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    color: #40514E;
+    line-height: 2;
+}
+h1{
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color:#66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF;
+}
+h3{
+    color:#11999E;
+}
+a{
+    color:#11999E;
+}
+.a-programmer
+{
+    font-weight: normal;
+}
+
+.pro
+{
+    text-decoration: underline;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.mountain-img
+{
+    position: relative;
+    top: 10px;
+}
+
+.middle-img
+{
+    width: 25%;
+}
+.drawing-img
+{
+    float:left; 
+    margin-right: 30px;
+}
+
+.english-img
+{
+    float:right;
+    margin-left: 30px;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.contact-me-msg
+{
+    width: 40%;
+    margin: 30px auto 30px auto;
+}
+
+.contact-me-btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -o-linear-gradient(top, #66BFBF, #11999E);
+    background-image: linear-gradient(to bottom, #66BFBF, #11999E);
+    -webkit-border-radius: 29px;
+    -moz-border-radius: 29px;
+    border-radius: 29px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 100;
+    padding: 20px;
+    box-shadow: 1px 1px 20px 0px #000000;
+    -webkit-box-shadow: 1px 1px 20px 0px #000000;
+    -moz-box-shadow: 1px 1px 20px 0px #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 50px auto 50px auto;
+    }
+    
+.contact-me-btn:hover {
+    border: solid #66BFBF 1px;
+    background: #E3FDFD;
+    background-image: -webkit-linear-gradient(top, #E3FDFD, #66BFBF);
+    background-image: -moz-linear-gradient(top, #E3FDFD, #66BFBF);
+    background-image: -ms-linear-gradient(top, #E3FDFD, #66BFBF);
+    background-image: -o-linear-gradient(top, #E3FDFD, #66BFBF);
+    background-image: linear-gradient(to bottom, #E3FDFD, #66BFBF);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    }
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(144, 144, 144);
+    border-width: 7px;
+    width: 4%;
+    margin: 50px auto 30px auto;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: none;
+    color:#e3fdfd;
+}
+
+
+.footer-link
+{
+    margin: 100px 30px 100px 30px;
+}
+.copyright
+{
+    color:white;
+    font-size: 0.75em;
+    padding: 20px 0;
+}
